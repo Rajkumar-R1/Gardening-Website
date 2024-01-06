@@ -1,0 +1,42 @@
+nav{
+    background-color:cyan;
+     height:auto;
+     width: auto;
+ }
+ li{
+     display: inline-block;
+     padding: 10px;
+     text-decoration: none;
+ }
+ .navlink{
+     text-decoration: none;
+     color: aqua;
+ }
+ li:hover:not(.active){
+     background-color: yellow;
+     
+ }
+ .link{
+    text-decoration: none;
+ }
+ nav{
+    background-color:rgb(106, 255, 0);
+     height:auto;
+     width: auto;
+ }
+ li{
+     display: inline-block;
+     padding: 10px;
+     text-decoration: none;
+ }
+ .navlink{
+     text-decoration: none;
+     color: aqua;
+ }
+ li:hover:not(.active){
+     background-color: yellow;
+     
+ }
+ .link{
+    text-decoration: none;
+ }
